@@ -1,6 +1,6 @@
 import React from "react";
 import { configure, shallow, assert } from "enzyme";
-import Adapter from "enzyme-adapter-react-16";
+import Adapter from "@wojtekmaj/enzyme-adapter-react-17";
 import ComponentName from "./ComponentName";
 import App from "./App";
 
